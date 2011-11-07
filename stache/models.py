@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Result(models.Model):
   suite = models.CharField(max_length=255)
   arch = models.ForeignKey('Arch')

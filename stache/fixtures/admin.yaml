@@ -1,0 +1,15 @@
+- fields:
+    date_joined: 2011-11-07 14:20:37.163870
+    email: admin@example.com
+    first_name: ''
+    groups: []
+    is_active: true
+    is_staff: true
+    is_superuser: true
+    last_login: 2011-11-07 14:20:37.163870
+    last_name: ''
+    password: sha1$e4911$3276bdd0ce90229348a4af685af61790a3ae7363
+    user_permissions: []
+    username: admin
+  model: auth.user
+  pk: 1
