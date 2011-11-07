@@ -1,6 +1,6 @@
 """The various calls to fetch data from the db."""
 
-from stache import Models
+from stache import models
 
 
 def get_results(version=None, run=None):
@@ -11,4 +11,4 @@ def get_results(version=None, run=None):
     run - uuid of which run this result is associated with
 
   """
-
+  pass

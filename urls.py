@@ -6,7 +6,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
-    # url(r'^$', 'devstache.views.home', name='home'),
+    url(r'^$', 'stache.views.results', name='default_results'),
     # url(r'^devstache/', include('devstache.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:
