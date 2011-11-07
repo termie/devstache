@@ -1,0 +1,5 @@
+django
+South
+eventlet
+pyyaml
+-e hg+https://bitbucket.org/jespern/django-piston#egg=django-piston
